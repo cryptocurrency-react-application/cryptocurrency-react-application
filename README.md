@@ -1,18 +1,10 @@
-# cryptocurrency-react-application
+# Cryptoverse - Explore the World of Cryptocurrency
 
-Department of Information Technology School of Studies in
-Engineering and Technology B.Tech- VI Semester (Session 2021-22)
+![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-MINOR PROJECT REPORT
+## Introduction
+This is a code repository for the corresponding video tutorial. 
 
-Project Title: - CRYPTOCURRENCY REACT APPLICATION
+In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
-Submitted To:
-1. Prof. Suhel Ahamed(Mentor)
-2. Prof. Agnivesh Pandey(Project Incharge)
-
-Submitted By:
-1.Mithu Kumar Gupta(19107734)
-2.Paramveer Kumar(19107743)
-3.Akshay Kumar Sah(19107703)
-
+By the end of this video, you will become the master of working with APIs.
